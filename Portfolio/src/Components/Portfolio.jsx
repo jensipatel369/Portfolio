@@ -6,14 +6,28 @@ export default function Portfolio() {
             image: "wrogn.png",
             title: "WROGN by Virat Kohli",
             disc : "Using by Tailwind CSS",
-            github: "",
+            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/WROGN",
             demo: ""
         },      
         {
             image: "wrogn.png",
             title: "WROGN by Virat Kohli",
+            disc : "Using by React JS",
+            github: "",
+            demo: ""
+        },      
+        {
+            image: "wrogn.png",
+            title: "BCCI",
             disc : "Using by Tailwind CSS",
-            github: "https://github.com/",
+            github: "",
+            demo: ""
+        },      
+        {
+            image: "wrogn.png",
+            title: "Healthy Treats",
+            disc : "Using by Tailwind CSS",
+            github: "",
             demo: ""
         },      
     ]

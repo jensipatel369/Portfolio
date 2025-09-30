@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+}
+.first{
+    background-image: url(./img/b-1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.first:hover{
+    background-image: url(./img/b-1.1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.second{
+    background-image: url(./img/b-2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.second:hover{
+    background-image: url(./img/b-2.2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
