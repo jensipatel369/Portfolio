@@ -1,0 +1,220 @@
+@media (max-width:576px){
+    .menu{
+        display: none;
+    }
+    #nav{
+        padding: 10px 0 15px;
+    }
+    .logo img{
+        width: 150%;
+    }
+    .icon{
+        display: none;
+    }
+    .bars{
+        display: flex;
+        font-size: 20px;
+    }
+    #main{
+        padding: 0;
+        margin: 0;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .text{
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .main{
+        display: none;
+    }
+    .text h1{
+        margin: 0 0 30px;
+        font-size: 30px;
+    }
+    .link a{
+        font-size: 12px;
+    }
+    .link button{
+        font-size: 17px;
+    }
+    .img{
+        height: 180px;
+    }
+    #mobile{
+        width: 230%;
+    }
+    #watch{
+        width: 60%;
+    }
+    #beg{
+        width: 100%;
+    }
+    .box{
+        margin: 0 0 30px;
+    }
+    .box h3{
+        font-size: 15px;
+        margin: 12px 0 5px;
+    }
+    .box h2{
+        font-size: 13px;
+    }
+    .shoe{
+        padding: 0;
+        margin: 0 0 20px;
+        text-align: center;
+        align-items: center;
+        height: 200px;
+    }
+    .see{
+        width: 100%;
+        padding: 0;
+    }
+    .see h1{
+        margin: 0;
+    }
+    .shoe img{
+        display: none;
+    }
+    .footer-left{
+        display: none;
+    }
+    .footer-right{
+        width: 100%;
+    }
+    .footer iframe{
+        display: none;
+    }
+}
+
+@media (min-width:577px) and (max-width:768px){
+    .menu{
+        display: none;
+    }
+    #nav{
+        padding: 10px 50px 15px 0;
+    }
+    .logo img{
+        width: 150%;
+    }
+    .icon{
+        gap: 15px;
+    }
+    #main{
+        padding: 0;
+        margin: 0;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .text{
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .main{
+        display: none;
+    }
+    .text h1{
+        margin: 0 0 30px;
+        font-size: 30px;
+    }
+    .img{
+        height: 180px;
+    }
+    #mobile{
+        width: 230%;
+    }
+    #watch{
+        width: 60%;
+    }
+    #beg{
+        width: 100%;
+    }
+    .box{
+        margin: 0 0 30px;
+    }
+    .box h3{
+        font-size: 17px;
+        margin: 12px 0 5px;
+    }
+    .box h2{
+        font-size: 15px;
+    }
+    .shoe{
+        padding: 0;
+        margin: 0 0 20px;
+        text-align: center;
+        align-items: center;
+        height: 200px;
+    }
+    .see{
+        width: 100%;
+        padding: 0;
+    }
+    .see h1{
+        margin: 0;
+    }
+    .shoe img{
+        display: none;
+    }
+    .footer-right{
+        width: 70%;
+    }
+    .footer iframe{
+        display: none;
+    }
+}
+
+@media (min-width:769px) and (max-width:992px){
+    .menu{
+        gap: 30px;
+    }
+    .icon{
+        gap: 20px;
+    }
+    #nav{
+        padding: 15px 50px 20px 0;
+    }
+    #main{
+        padding: 0 20px 0 0;
+        margin: 0;
+        align-items: center;
+    }
+    .text{
+        width: 40%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .text h1{
+        font-size: 25px;
+    }
+    .main{
+        height: 200px;
+    }
+    .img{
+        height: 250px;
+    }
+    #beg{
+        width: 90%;
+    }
+    .shoe{
+        padding: 20px 20px 20px 0;
+    }
+    .see{
+        width: 50%;
+    }
+    .shoe img{
+        width: 50%;
+    }
+    .footer{
+        padding: 0 50px;
+    }
+    .footer iframe{
+        display: none;
+    }
+    .footer-right{
+        width: 60%;
+    }
+}

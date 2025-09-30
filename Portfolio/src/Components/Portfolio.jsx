@@ -11,23 +11,23 @@ export default function Portfolio() {
         },      
         {
             image: "wrogn.png",
-            title: "WROGN by Virat Kohli",
+            title: "District by Zomato",
             disc : "Using by React JS",
             github: "",
             demo: ""
         },      
         {
-            image: "wrogn.png",
+            image: "BCCI.png",
             title: "BCCI",
             disc : "Using by Tailwind CSS",
-            github: "",
+            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/BCCI",
             demo: ""
         },      
         {
-            image: "wrogn.png",
+            image: "healthy.png",
             title: "Healthy Treats",
             disc : "Using by Tailwind CSS",
-            github: "",
+            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/Healthy%20%20Treat",
             demo: ""
         },      
     ]
