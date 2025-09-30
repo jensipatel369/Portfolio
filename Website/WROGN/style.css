@@ -1,0 +1,26 @@
+@media(min-width: 0px){
+  .animate-marquee{
+    animation: marquee 20s linear infinite;
+  }
+  @keyframes marquee{
+    0%{
+      transform: translateX(0%); 
+    }
+    100%{
+      transform: translateX(-80%);
+    }
+  }
+}
+.over{
+  scrollbar-width: none;
+}
+.wear{
+  background: #BD9D97;
+  background: linear-gradient(1deg, rgba(189, 157, 151, 1) 17%, rgba(209, 190, 187, 1) 65%, rgba(227, 223, 222, 1) 100%);
+}
+.new{
+  width: 1456px;
+  height: 700px;
+  background-image: url(./img/bg.webp);
+  background-size: cover; 
+}
