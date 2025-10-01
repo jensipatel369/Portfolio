@@ -10,7 +10,7 @@ export default function Portfolio() {
             demo: ""
         },      
         {
-            image: "wrogn.png",
+            image: "zometo.png",
             title: "District by Zomato",
             disc : "Using by React JS",
             github: "",
@@ -22,6 +22,13 @@ export default function Portfolio() {
             disc : "Using by Tailwind CSS",
             github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/BCCI",
             demo: ""
+        },    
+         {
+            image: "e-shop.png",
+            title: "E-Shop",
+            disc : "Using by HTML - CSS and Media Query",
+            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/E-Shop",
+            demo: ""
         },      
         {
             image: "healthy.png",
@@ -29,7 +36,7 @@ export default function Portfolio() {
             disc : "Using by Tailwind CSS",
             github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/Healthy%20%20Treat",
             demo: ""
-        },      
+        }  
     ]
 
     return (
@@ -41,8 +48,8 @@ export default function Portfolio() {
                     <div className="mt-12 gap-7 flex justify-center flex-wrap">
                         {
                             projects.map((e, i) => {
-                                return <div key={i} className='border-1 border-[#d8d8d8] rounded-sm w-87 flex flex-col items-center'>
-                                    <img src={e.image} alt={e.title} className='w-full' />
+                                return <div key={i} className='border-1 border-[#d8d8d8] rounded-md w-87 flex flex-col items-center'>
+                                    <img src={e.image} alt={e.title} className='w-full border-b-1 rounded-t-md border-[#d8d8d8]' />
                                     <h1 className='font-semibold text-xl pt-2 hover:text-[#ec88ac] cursor-pointer duration-300'>{e.title}</h1>
                                     <p className='text-sm text-gray-600 pt-1 hover:text-[#ec88ac] cursor-pointer duration-300'>{e.disc}</p>
                                     <div className='flex gap-4 items-center py-3'>
