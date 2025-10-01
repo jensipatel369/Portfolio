@@ -6,35 +6,35 @@ export default function Portfolio() {
             image: "wrogn.png",
             title: "WROGN by Virat Kohli",
             disc : "Using by Tailwind CSS",
-            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/WROGN",
+            github: "https://github.com/jensipatel369/Tailwind/tree/main/WROGN",
             demo: "https://wrognn.netlify.app/"
         },      
         {
             image: "zometo.png",
             title: "District by Zomato",
             disc : "Using by React JS",
-            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/district%20by%20zometo",
-            demo: ""
+            github: "https://github.com/jensipatel369/React-JS/tree/main/Project/district%20by%20zometo",
+            demo: "https://district-by-zomato.vercel.app/"
         },      
         {
             image: "BCCI.png",
             title: "BCCI",
             disc : "Using by Tailwind CSS",
-            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/BCCI",
+            github: "https://github.com/jensipatel369/Tailwind/tree/main/BCCI",
             demo: "https://bccii.netlify.app/"
         },    
          {
             image: "e-shop.png",
             title: "E-Shop",
             disc : "Using by HTML - CSS and Media Query",
-            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/E-Shop",
+            github: "https://github.com/jensipatel369/MQ-BT/tree/main/Media%20Query%20(MQ)/E-Shop",
             demo: "https://tangerine-stroopwafel-3f3ed0.netlify.app/"
         },      
         {
             image: "healthy.png",
             title: "Healthy Treats",
             disc : "Using by Tailwind CSS",
-            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/Healthy%20%20Treat",
+            github: "https://github.com/jensipatel369/Tailwind/tree/main/Healthy%20%20Treat",
             demo: "https://healthytreat.netlify.app/"
         }  
     ]
