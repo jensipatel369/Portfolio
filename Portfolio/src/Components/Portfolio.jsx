@@ -7,7 +7,7 @@ export default function Portfolio() {
             title: "WROGN by Virat Kohli",
             disc : "Using by Tailwind CSS",
             github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/WROGN",
-            demo: ""
+            demo: "https://wrognn.netlify.app/"
         },      
         {
             image: "zometo.png",
@@ -21,21 +21,21 @@ export default function Portfolio() {
             title: "BCCI",
             disc : "Using by Tailwind CSS",
             github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/BCCI",
-            demo: ""
+            demo: "https://bccii.netlify.app/"
         },    
          {
             image: "e-shop.png",
             title: "E-Shop",
             disc : "Using by HTML - CSS and Media Query",
             github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/E-Shop",
-            demo: ""
+            demo: "https://tangerine-stroopwafel-3f3ed0.netlify.app/"
         },      
         {
             image: "healthy.png",
             title: "Healthy Treats",
             disc : "Using by Tailwind CSS",
             github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/Healthy%20%20Treat",
-            demo: ""
+            demo: "https://healthytreat.netlify.app/"
         }  
     ]
 
