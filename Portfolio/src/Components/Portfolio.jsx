@@ -13,7 +13,7 @@ export default function Portfolio() {
             image: "zometo.png",
             title: "District by Zomato",
             disc : "Using by React JS",
-            github: "",
+            github: "https://github.com/jensipatel369/Portfolio/tree/main/Website/district%20by%20zometo",
             demo: ""
         },      
         {
